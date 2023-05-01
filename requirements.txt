@@ -12,3 +12,6 @@ django-allauth
 Jinja2==2.7.2
 python-etcd==0.4.5
 urllib3==1.25.9
+
+requests~=2.29.0
+defusedxml~=0.7.1
